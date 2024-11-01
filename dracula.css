@@ -4,7 +4,7 @@
     --tridactyl-font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* The font used for the tab labels */
     --tridactyl-font-size: 12pt;
     --tridactyl-small-font-size: 12px;
-    --tridactyl-bg: blue;
+    --tridactyl-bg: white;
     --tridactyl-fg: black;
     --tridactyl-logo: url("data:image/png;base64,REPLACE_ME_WITH_BASE64_TRIDACTYL_LOGO");
     --tridactyl-scrollbar-color: auto;
