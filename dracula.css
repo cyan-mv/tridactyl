@@ -51,7 +51,7 @@
     --tridactyl-cmdl-bg: var(--tridactyl-bg);
     --tridactyl-cmdl-fg: var(--tridactyl-fg);
     --tridactyl-cmdl-line-height: 1.5;
-    --tridactyl-cmdl-font-family: monospace;
+    --tridactyl-cmdl-font-family: var(--tridactyl-font-family);
     --tridactyl-cmdl-font-size: 9pt;
 
     /*completions*/
@@ -60,7 +60,7 @@
     --tridactyl-cmplt-fg: var(--tridactyl-fg);
     --tridactyl-cmplt-bg: var(--tridactyl-bg);
     --tridactyl-cmplt-font-size: 10pt;
-    --tridactyl-cmplt-font-family: monospace;
+    --tridactyl-cmplt-font-family: var(--tridactyl-font-family);
     /* i don't think 0.5px is redered */
     --tridactyl-cmplt-border-top: 1px solid grey;
 
